@@ -52,6 +52,5 @@ public class TakingInput {
             String secondWord = sc.next();
             System.out.println(firstWord+secondWord);
         }
-        // Q5 is done by the help of the web.
     }
 }
